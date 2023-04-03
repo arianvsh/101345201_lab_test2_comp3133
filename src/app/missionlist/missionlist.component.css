@@ -1,0 +1,30 @@
+.mat-card-header {
+  font-size: 22px;
+  font-weight: bold;
+  color: #a5a5a5;
+}
+
+.list {
+  margin: 22px auto;
+  padding: 15px;
+  border-radius: 5px;
+  background: rgb(216, 216, 216);
+  border: 1px solid black;
+}
+
+
+.list img {
+  width: 140px;
+  height: 140px;
+  float: left;
+  color: #fff;
+  padding-right: 100px;
+  padding-bottom: 40PX;
+  
+}
+
+.list-item {
+  margin: 0 10px;
+  color: #454545;
+  
+}
